@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+flask
+joblib
+matplotlib
+onnxruntime
+skl2onnx
+awscli
+boto3
